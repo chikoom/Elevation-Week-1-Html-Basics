@@ -6,4 +6,5 @@
   ## Cats From Hell!
 __A simple minisite using HTML and CSS__
 
+Watch it on [GitHub Pages](https://chikoom.github.io/Elevation-Week-1-Html-Basics/)
 
